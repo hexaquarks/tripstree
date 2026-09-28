@@ -37,6 +37,7 @@ A profile combines visited countries, photos, dates, and notes into a single pub
 - Interactive world map of visited countries
 - Travel memory cards with photos, dates, and notes
 - Shareable travel profiles
+- Customization (colors, themes, etc)
 - Image upload and delivery through AWS
 - Google authentication
 - Subscription and payment infrastructure
